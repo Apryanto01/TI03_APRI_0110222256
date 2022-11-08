@@ -1,0 +1,61 @@
+.tugas{
+    display: flex;
+    width: 99%;
+    height: 100px;
+    justify-content: space-evenly;
+}
+
+.baris1{
+    width: 25%;
+    height: 100px;
+    background-color: #f4eb49;
+    margin-top: 10px;
+    border: 1px solid black;
+    margin-left: -1px;
+
+}
+
+.baris2{
+    width: 70%;
+    height: 100px;
+    background-color: #f4eb49;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+.isi{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    margin: 20px;
+}
+
+.baris3{
+    width: 25%;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+
+.baris4{
+    width: 48%;
+    background-color: rgb(187, 184, 184);
+    margin-left: 25px;
+    border: 1px solid black;
+}
+
+.baris5{
+    width: 20%;
+    background-color: lightseagreen;
+    margin-left: 17px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.akhir{
+    width: 96%;
+    height: 100px;
+    background-color: blue;
+    margin-left: 20px;
+    border: 1px solid black;
+    margin-top: -12px;
+}
